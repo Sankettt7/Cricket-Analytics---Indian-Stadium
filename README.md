@@ -74,16 +74,6 @@ This analytics project significantly enhances the decision-making capability of 
 
 ---
 
-## 🌟 Future Enhancements
-Future iterations could include:
-
-- Advanced Machine Learning Models (e.g., predictive performance modeling)
-- Real-time Analytics Dashboard
-- Integration of Player Fitness & Mental Health Data
-- Dynamic Player Impact Analysis
-
----
-
 ## ⚙️ Technologies & Tools Used
 
 - **Python**: Primary programming language
